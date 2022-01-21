@@ -1,0 +1,39 @@
+body{
+  background-color: rgb(165, 162, 154);
+}
+/* Container */
+.sheet { 
+  position:relative;
+  max-width: 500px;
+  min-height: 600px;
+  background-image: url("./assets/paper.png");
+}
+.container {
+  max-width: 400px;
+}
+
+/* Form */
+input[type=text],
+input[type=text]:focus{
+  border: none;
+  background: rgba(0,0,0,0.2);
+  max-width: 400px;
+}
+
+/* List */
+.delete{
+  cursor: pointer;
+}
+
+/* Footer */
+.search {
+  position: absolute;
+  bottom: 10px;
+  left:50%;
+  transform: translateX(-50%);
+}
+
+/* Interactive classes */
+.filtered{
+  display: none !important;
+}
