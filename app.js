@@ -24,7 +24,7 @@ const refreshList = product => {
   }
 }
 
-// add products event
+// add products event 
 addForm.addEventListener('submit', e => {
   e.preventDefault();
   const product = addForm.add.value.trim();
@@ -34,7 +34,7 @@ addForm.addEventListener('submit', e => {
   }
 });
 
-// delete products event
+// delete products event (applied to the father "ul" using delegation)
 productsList.addEventListener('click', e => {
   if (e.target.classList.contains('delete')) {
     e.target.parentElement.remove();
