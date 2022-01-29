@@ -10,7 +10,7 @@ You can add products, remove and filter them to the list.
 - DOM's elements manipulation (wuth events delegation)
 - Array methods chaining
 
-### Concepts developed
+### Concepts
 
 - HTML
 - CSS
