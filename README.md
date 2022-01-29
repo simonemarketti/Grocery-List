@@ -7,7 +7,7 @@ You can add products, remove and filter them to the list.
 
 ### Concepts
 
-- DOM's elements manipulation (wuth events delegation)
+- DOM manipulation (wuth events delegation)
 - Array methods chaining
 
 ### Languages and tools
