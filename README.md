@@ -1,15 +1,27 @@
 # Grocery List
+
 ## Overview
+
 This is a simple interactive grocery list.
 You can add products, remove and filter them to the list.
 
 ### Concepts developed
-- Manipulating DOM's elements (using events delegation)
-- Chaining array methods
-- Using bootstrap (via cdn)
-- Using Fontawesome script
+
+- DOM's elements manipulation (wuth events delegation)
+- Array methods chaining
+
+### Concepts developed
+
+- HTML
+- CSS
+- JAVASCRIPT
+- BOOTSTRAP (CDN)
+- FONTAWESOME (script)
+
 ### Links
-https://simonemarketti.github.io/Grocery-List
+
+https://simonemarketti.github.io/grocery-list
 
 ### Notes
+
 Based on the “Todos List” project of the Modern javascript course. (https://github.com/iamshaunjp/modern-javascript)
