@@ -5,12 +5,12 @@
 This is a simple interactive grocery list.
 You can add products, remove and filter them to the list.
 
-### Concepts developed
+### Concepts
 
 - DOM's elements manipulation (wuth events delegation)
 - Array methods chaining
 
-### Concepts
+### Languages and tools
 
 - HTML
 - CSS
