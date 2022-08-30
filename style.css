@@ -1,39 +1,41 @@
-body{
-  background-color: rgb(165, 162, 154);
+body {
+    background-color: rgb(165, 162, 154);
 }
+
 /* Container */
-.sheet { 
-  position:relative;
-  max-width: 500px;
-  min-height: 600px;
-  background-image: url("./assets/paper.png");
+.sheet {
+    position: relative;
+    max-width: 500px;
+    min-height: 600px;
+    background-image: url("./assets/paper.png");
 }
+
 .container {
-  max-width: 400px;
+    max-width: 400px;
 }
 
 /* Form */
 input[type=text],
-input[type=text]:focus{
-  border: none;
-  background: rgba(0,0,0,0.2);
-  max-width: 400px;
+input[type=text]:focus {
+    max-width: 400px;
+    border: none;
+    background: rgba(0, 0, 0, 0.2);
 }
 
 /* List */
-.delete{
-  cursor: pointer;
+.delete {
+    cursor: pointer;
 }
 
 /* Footer */
 .search {
-  position: absolute;
-  bottom: 10px;
-  left:50%;
-  transform: translateX(-50%);
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    transform: translateX(-50%);
 }
 
 /* Interactive classes */
-.filtered{
-  display: none !important;
+.filtered {
+    display: none !important;
 }
